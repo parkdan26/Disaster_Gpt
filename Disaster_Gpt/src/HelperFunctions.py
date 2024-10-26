@@ -17,6 +17,3 @@ def situation_message(naturalDisaster) -> str:
         return ""
     elif naturalDisaster == "landslide":
         return ""
-
-
-def lo.
