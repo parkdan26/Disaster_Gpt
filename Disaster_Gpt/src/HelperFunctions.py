@@ -1,4 +1,4 @@
-"""Helper functions which assist in implementing toTwilio."""
+"""Helper functions which assist in implementing toTwilio. """
 
 # TODO: fill in natural disasters and what to do for each
 def situation_message(naturalDisaster) -> str:
