@@ -1,4 +1,4 @@
-""" Sends user data to Twilio which will send an SMS to users' phone number. """
+""" Sends user data to Twilio which will send an SMS to users' phone number."""
 
 import HelperFunctions
 
